@@ -24,12 +24,6 @@ This is a responsive and interactive web portal developed as part of my internsh
 - `index.html` — Contact Form  
 - `to_list.html` — To-Do List
 
-### 📌 How to Run
-
-1. Clone the repo or [download ZIP](#)
-2. Open `index.html` in your browser
-3. Use the navigation link to switch to the To-Do List
-
 ### 🧠 Learning Outcome
 
 - DOM Manipulation
